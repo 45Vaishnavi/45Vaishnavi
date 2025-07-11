@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120" alt="growing flower animation"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NrdmlxdTc2M204Y2sydGJ1ZWQyOG5vb281dmJuMnhzdWUyZm42cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bT9HaxJBbit8zYRXaB/giphy.gif" width="150" alt="Cute Sticker" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Vaishnavi</h1>
+<h1 align="center">Hi 👋, I'm Vaishnavi <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTA4cHczbWJidXY1cTc3N2tsNXJuMDZzamMydmZ1NXNjOTBscWF4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uJNDUx848SxlOqF05k/giphy.gif" width="50" alt="Cute Sticker" /></h1>
 
 <p align="center">
   💻 Aspiring Developer & Passionate Learner<br/>
