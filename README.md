@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=480&lines=Exploring+Full+Stack+Web+Development;Creating+Meaningful+Digital+Experiences;Python+%26+JavaScript+Learner" alt="typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=ffb7c5&center=true&vCenter=true&width=480&lines=Exploring+Full+Stack+Web+Development;Python+%26+JavaScript+Learner" alt="typing animation"/>
 </p>
 
 ---
