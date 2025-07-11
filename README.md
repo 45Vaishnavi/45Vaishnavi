@@ -13,6 +13,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=480&lines=Exploring+Full+Stack+Web+Development;Creating+Meaningful+Digital+Experiences;Python+%26+JavaScript+Learner" alt="typing animation"/>
 </p>
 
+---
+
+## 🛠 Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode" alt="tech stack icons"/>
 </p>
@@ -28,16 +32,20 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=45Vaishnavi&show_icons=true&theme=default" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=45Vaishnavi&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=f8e4ff&bg_color=B168C5" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=45Vaishnavi&hide_border=true&background=B168C5&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=f8e4ff&dates=f8e4ff" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=45Vaishnavi&layout=compact&hide_border=true&title_color=ffffff&text_color=f8e4ff&bg_color=B168C5" alt="Top Languages" />
 </p>
+
+
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=117abhishek&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=45Vaishnavi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -53,4 +61,4 @@
 
 ---
 
-> “Keep blooming with code — one commit at a time.” 🌸
+<p align="center"><em>“Keep blooming with code — one commit at a time.” 🌸</em></p>
