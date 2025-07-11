@@ -45,8 +45,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=45Vaishnavi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=45vaishnavi&label=Profile%20views&color=B168C5&style=flat-square" alt="Profile views" />
 </p>
+
 
 ---
 
